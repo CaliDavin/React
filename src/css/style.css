@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/* header{
+    background-color: lightseagreen;
+}
+
+footer{
+    background-color: lightcoral;
+} */
+
+.card {
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+    padding: 1% 2%;
+    width: 60%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+
+.card h1, h2, h3, p {
+    text-align: left;
+}
+
+/* .card p {
+    padding-top: 5%;
+} */

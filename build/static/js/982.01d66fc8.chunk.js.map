@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/982.01d66fc8.chunk.js","mappings":"4IAQA,UARW,WACP,OACI,+BACI","sources":["pages/cv.js"],"sourcesContent":["const Cv = () => {\n    return (\n        <>\n            <h1>Cv</h1>\n        </>\n    )\n}\n\nexport default Cv\n"],"names":[],"sourceRoot":""}
