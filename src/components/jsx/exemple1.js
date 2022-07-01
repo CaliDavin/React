@@ -1,7 +1,7 @@
 /* Creating an object called user with two properties, firstname and lastname. */
 const user = {
-    firstname: 'Yanis',
-    lastname: 'Elmaleh',
+    firstname: 'Davin',
+    lastname: 'Cali',
 }
 
 /**
