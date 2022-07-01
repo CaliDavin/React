@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreactipssib32022=self.webpackChunkreactipssib32022||[]).push([[992],{992:function(e,n,s){s.r(n);var i=s(184);n.default=function(){return(0,i.jsx)(i.Fragment,{children:(0,i.jsx)("h1",{children:"Main"})})}}}]);
-//# sourceMappingURL=992.80ac97a2.chunk.js.map

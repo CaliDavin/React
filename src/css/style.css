@@ -27,10 +27,29 @@ footer{
     margin-bottom: 2%;
 }
 
-.card h1, h2, h3, p {
+.card h1,
+h2,
+h3,
+p {
     text-align: left;
 }
 
 /* .card p {
     padding-top: 5%;
 } */
+
+
+.banner {
+    background-color: red;
+}
+
+.banner-scroll {
+    background-color: blue;
+    height: 3vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+

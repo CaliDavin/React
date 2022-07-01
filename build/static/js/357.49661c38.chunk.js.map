@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/357.49661c38.chunk.js","mappings":"wHAQA,UARgB,WACZ,OACI,+BACI","sources":["pages/projets.js"],"sourcesContent":["const Projets = () => {\n    return (\n        <>\n            <h1>Projets</h1>\n        </>\n    )\n}\n\nexport default Projets\n"],"names":[],"sourceRoot":""}

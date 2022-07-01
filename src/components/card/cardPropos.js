@@ -1,4 +1,4 @@
- const CardPropos = ({ title, desc, image }) => {
+const CardPropos = ({ title, desc, image }) => {
     return (
         <div className="card">
             <h1>{title}</h1>
@@ -7,6 +7,5 @@
         </div>
     )
 }
-
 
 export default CardPropos
